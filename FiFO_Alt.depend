@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668672245 source:/home/dep-info/Bureau/TP_02/FIFo/FiFO_Alt/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668669696 source:e:\fifo_alt\main.c
+	<stdio.h>
+	<stdlib.h>
+
